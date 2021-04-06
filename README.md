@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🐊 I'm Luis Dueñas.
+- 🇲🇽 I'm Mexican.
+- 🚀 I'm currently working as a web developer in [Octahedroid](https://octahedroid.com/).
+- ⏩ I like to optimize code.
+- 🌲 I love nature & beer. 🍻
+- Let's make a carnita asada 🤠
 
 <!--
 **luisduenas/luisduenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
