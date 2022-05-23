@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🐊 I'm Luis Dueñas.
-- 🇲🇽 I'm Mexican.
-- 🚀 I'm currently working as a web developer in [Octahedroid](https://octahedroid.com/).
-- ⏩ I like to optimize code.
+- 🐊 My name is Luis Dueñas.
+- 🇲🇽 Mexican.
+- 🚀 I work as a web developer in [Octahedroid](https://octahedroid.com/).
 - 🌲 I love nature & beer. 🍻
 - Let's make a carnita asada 🤠
 
